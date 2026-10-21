@@ -21,4 +21,4 @@ The framework is evaluated using BERTScore, ROUGE, METEOR, BLEU, and LLM-as-judg
 - [CADG](CADG/README.md): dialogue generation scripts.
 - [DPO environment](dpo_env.yml) and [GRPO environment](grpo_env.yml): Conda dependency definitions.
 
-Intended for LLM alignment research.
+Intended for LLM alignment research purposes only; not intended for clinical use.
