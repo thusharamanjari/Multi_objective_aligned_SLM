@@ -15,8 +15,8 @@ The framework is evaluated using BERTScore, ROUGE, METEOR, BLEU, and LLM-as-judg
 
 ## Code and documentation
 
-- [CCD](CCD/README.md): detection scripts, input files, and outputs.
-- [CADG](CADG/README.md): dialogue generation scripts, input files, and outputs.
+- [CCD](CCD/README.md): detection scripts.
+- [CADG](CADG/README.md): dialogue generation scripts.
 - [DPO environment](dpo_env.yml) and [GRPO environment](grpo_env.yml): Conda dependency definitions.
 
-Intended for controlled patient-simulation research, not clinical deployment or medical advice.
+Intended for LLM alignment research.
